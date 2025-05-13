@@ -1,6 +1,6 @@
 # Adaptive Well Log Interpretation: A Hybrid Supervised and Sequential Modeling Framework for Extrapolation
 
-**CIS 730/530: Artificial Intelligence - Term Project (May 2025)**
+**CIS 730/530: Artificial Intelligence
 
 **Moses Falowo & Charlie Bergdall**
 
