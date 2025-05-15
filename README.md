@@ -5,7 +5,7 @@
 **Moses Falowo & Charlie Bergdall**
 
 ## Project Description
-This project investigates machine learning models for interpreting well log data from the Kansas Geological Survey (KGS) to predict geological properties: Lithology (Y1), Fluid Type (Y2), and Porosity (Y3). The primary focus is on evaluating and comparing the extrapolation capabilities of Random Forest, k-Nearest Neighbors, and Long Short-Term Memory (LSTM) networks.
+This project investigates machine learning models for interpreting well log data from the Kansas Geological Survey (KGS) to predict geological properties: Lithology, Fluid Type, and Porosity. The primary focus is on evaluating and comparing the extrapolation capabilities of Random Forest, k-Nearest Neighbors, and Long Short-Term Memory (LSTM) networks.
 
 The study includes:
 - Data preprocessing and target variable derivation from raw well log measurements.
